@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a zero email agent swarm<br>🌱 I’m currently learning Laravel<br>👯 I'm currently looking to collaborate on <br>💬 Ask me about Computer Vision and Web Dev
+🔭 I’m currently working on a zero email agent swarm<br>🌱 I’m currently learning Laravel<br>👯 I'm currently looking to collaborate on deep learning projects <br>💬 Ask me about Computer Vision and Web Dev
 
 
 ## 🌐 Socials:
