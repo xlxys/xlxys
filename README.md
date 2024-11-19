@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **elyes.djebara@gamil.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mLFai8g0G_xheUdhZLzVaZoHjb4GgWlT/view?usp=drive_link](https://drive.google.com/file/d/1mLFai8g0G_xheUdhZLzVaZoHjb4GgWlT/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/ilyes-djebara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ilyes-djebara" height="30" width="40" /></a>
