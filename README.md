@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi ! im DJEBARA Ilyes
 🔭 I’m currently working on a zero email agent swarm<br>🌱 I’m currently learning Laravel<br>👯 I'm currently looking to collaborate on deep learning projects <br>💬 Ask me about Computer Vision and Web Dev
 
 
@@ -12,7 +12,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xlxys&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xlxys&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
